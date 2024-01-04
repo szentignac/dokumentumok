@@ -1,10 +1,10 @@
-**1/2023. (IX.26.) DB határozat a Szent Ignác Jezsuita Szakkollégium Házirendjéről**
+# **1/2023. (IX.26.) DB határozat a Szent Ignác Jezsuita Szakkollégium Házirendjéről**
 
 A Szent Ignác Jezsuita Szakkollégium (a továbbiakban: Szakkollégium) Diákbizottsága (a továbbiakban: DB) a Vezetőség egyetértésével - a szakkollégiumi élet és együttélés szervezése és megkönnyítése céljából - a következő ​*Házirend​et* alkotja:
 
-**I. fejezet**
+## **I. fejezet**
 
-**Alapelvek**
+### **Alapelvek**
 
 **1. §** A _Házirend_ alapelve a szakkollégisták kölcsönös tapintata és figyelmessége egymás iránt, különös tekintettel a nyugodt tanulásra, az éjszakai pihenésre, ill. az elmélkedéshez és az imához szükséges csendre.
 
@@ -18,9 +18,9 @@ A Szent Ignác Jezsuita Szakkollégium (a továbbiakban: Szakkollégium) Diákbi
 
 (3) A _Házirend_ időbeli hatálya kiterjed a _Házirend_ és módosításainak kihirdetése napjától a visszavonásig.
 
-**II. fejezet**
+## **II. fejezet**
 
-**Általános rendelkezések**
+### **Általános rendelkezések**
 
 **4. §** 22:00 és 8:00 között törekedni kell a csendre.
 
@@ -76,9 +76,9 @@ A Szent Ignác Jezsuita Szakkollégium (a továbbiakban: Szakkollégium) Diákbi
 
 (2) Az (1) bekezdésben leírtak megszegése súlyos szerződésszegésnek minősül, amely azonnali szerződésbontást von maga után.
 
-**III. fejezet**
+## **III. fejezet**
 
-**Konyha**
+### **Konyha**
 
 **16. §** (1) A megfelelő jelzéssel ellátott műanyag hűtődobozok nyilvántartását az Iroda végzi.
 
@@ -150,9 +150,9 @@ k) felseperni és felmosni a konyha területén
 
 (8) Ezen felül a mulasztók kötelesek átvállalni a beosztás szerint utánuk következő takarítóktól a feladataik felét. Amennyiben ez nem történik meg, abban az esetben a mulasztók kötelesek fejenként további 3000 Ft-ot befizetni a DB-kasszába, amelyből 1000 Ft-ot a DB szétoszt a mulasztókat követő takarítók közt. A felelősség minden esetben egyéni, csak a mulasztó köteles fizetni.
 
-**IV. fejezet**
+## **IV. fejezet**
 
-**Könyvtár**
+### **Könyvtár**
 
 **23. §** A könyvtár csendes olvasásra és tanulásra vehető igénybe, illetve előzetes egyeztetés után szakkollégiumi esemény helyszíne lehet.
 
@@ -174,15 +174,15 @@ k) felseperni és felmosni a konyha területén
 
 **26. §** A belügyi team feladata a könyvállomány és nyilvántartás karbantartása, a tájékozódást segítő információk közzététele, és a könyvek, különösen a visszahozott könyvek folyamatos rendszerezése, amennyiben a külső feltételek ehhez megfelelően biztosítva vannak.
 
-**V. fejezet**
+## **V. fejezet**
 
-**Bírság**
+### **Bírság**
 
 **27. §** (1) Amennyiben a bírsággal sújtott a bírságot nem fizeti be a bírság kiszabásától számított 7 naptári napon belül, a bírság összege, és további 1000 Ft adminisztrációs díj a kaucióból levonásra kerül.
 
-**VI. fejezet**
+## **VI. fejezet**
 
-**Konditerem**
+### **Konditerem**
 
 **28. §** (1) A Szakkollégium konditermének használatára jogosult a Szakkollégium minden aktív és passzív státusszal rendelkező hallgatója, a Szakkollégium öregdiákjai, valamint az épületben élő további személyek, ideértve az albérlőket is.
 
@@ -196,9 +196,9 @@ k) felseperni és felmosni a konyha területén
 
 (6) A Konditerem használói legyenek különös tekintettel szakkollégista társaikra, megkülönböztetett figyelemmel a könyvtárban tanulókra.
 
-**VII. fejezet**
+## **VII. fejezet**
 
-**A Losonczi-hagyaték**
+### **A Losonczi-hagyaték**
 
 **29. §** (1) A 3. emeleti Szalonban található könyvek ideiglenesen lettek a Szakkollégium rendelkezésére bocsátva, ezért különösen óvni kell őket. A hagyaték könyveit az aktív és a passzív hallgatói státusszal rendelkező szakkollégisták, valamint az öregdiákok és az épületben lakó albérlők használhatják.
 
@@ -214,9 +214,9 @@ k) felseperni és felmosni a konyha területén
 
 **31. §** A belügyi team feladata a könyvállomány és nyilvántartás karbantartása, a tájékozódást segítő információk közzététele és a könyvek, különösen a visszahozott könyvek folyamatos rendszerezése, amennyiben a külső feltételek ehhez megfelelően biztosítva vannak.
 
-**VIII. fejezet**
+## **VIII. fejezet**
 
-**Záró rendelkezések**
+### **Záró rendelkezések**
 
 **32. §** (1) A _Házirend_ által nem szabályozott kérdésekben a szakkollégiumi _Tagsági Szerződés_ és az _SZMSZ_ rendelkezései irányadóak.
 
