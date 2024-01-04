@@ -49,7 +49,7 @@ A korábbi tanulmányi rendszer problémáinak vizsgálata után a szakkollégiu
 
 **5. § [A kötelező kurzus]**
 
-(1) A kurzus egy 4 kreditet érő, a félév során 900 perc időtartamú órai jelenlétet, illetve ezen felül nem meghatározott időtartamú felkészülést magában foglaló, számonkéréssel záruló elfoglaltság, amelynek keretein belül a szakkollégisták ismereteket sajátítanak el, a kurzusra rendszeresen felkészülnek, és a kurzus során tudásukról számot adnak.
+(1) A kurzus egy 4 kreditet érő, a félév során 900 perc időtartamú órai jelenlétet, illetve ezen felül nem meghatározott időtartamú felkészülést magában foglaló, számonkéréssel záruló elfoglaltság, amelynek keretein belül a szakkollégisták ismereteket sajátítanak el, a kurzusra rendszeresen felkészülnek és a kurzus során tudásukról számot adnak.
 
 (2) A kurzus formája lehet,
 
